@@ -1,0 +1,23 @@
+.pagination {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .pagination .page-link {
+    position: relative;
+    display: block;
+    padding: 0.25rem 0.5rem;
+    font-size: 1rem;
+    color: #0d6efd;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    margin: 0;
+  }
+  
+  .pagination .active > .page-link {
+    color: #fff;
+    background-color: #0d6efd;
+  }
+  

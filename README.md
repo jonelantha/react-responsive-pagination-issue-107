@@ -1,0 +1,1 @@
+https://github.com/jonelantha/react-responsive-pagination/issues/107
